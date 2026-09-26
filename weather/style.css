@@ -1,9 +1,9 @@
 :root {
-    --main-bg-color: #fff;
+    --main-bg-color: #f9f8f7;
 }
 
 [data-theme="gray"] {
-    --main-bg-color: #191919;
+    --main-bg-color: #383836;
 }
 
 * {
