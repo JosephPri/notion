@@ -56,7 +56,7 @@ if (currentTheme == 'pure') {
 function light() {
 	document.documentElement.setAttribute('data-theme', 'pure');
 	document.getElementById('weather').setAttribute('data-theme', 'pure');
-	document.getElementById('weather').removeAttribute('data-basecolor', '#f9f8f7');
+	document.getElementById('weather').setAttribute('data-basecolor', '#f9f8f7');
 	document.getElementById('weather').setAttribute('data-textcolor', '#37352f');
 	document.getElementById('weather').removeAttribute('data-cloudfill');
 	document.getElementById('weather').setAttribute('data-suncolor', '#F58f70');
