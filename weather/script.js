@@ -66,7 +66,7 @@ function light() {
 function dark() {
 	document.documentElement.setAttribute('data-theme', 'gray');
 	document.getElementById('weather').setAttribute('data-theme', 'gray');
-	document.getElementById('weather').setAttribute('data-basecolor', '#202020');
+	document.getElementById('weather').setAttribute('data-basecolor', '#383836');
 	document.getElementById('weather').removeAttribute('data-textcolor');
 	document.getElementById('weather').setAttribute('data-cloudfill', '#191919');
 	document.getElementById('weather').setAttribute('data-suncolor', '#F58f70');
