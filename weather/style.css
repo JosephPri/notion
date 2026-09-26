@@ -16,7 +16,7 @@ body {
     background-color: var(--main-bg-color);
     overflow: hidden;
     text-align: center;
-    padding-top: 40vh;
+    padding-top: 10vh;
 }
 
 .inactiveLink {
@@ -29,7 +29,7 @@ body {
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    font-size: 10px;
+    font-size: 40px;
     position: relative;
     margin-top: 100px;
     text-align: center;
