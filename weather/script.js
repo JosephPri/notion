@@ -59,7 +59,7 @@ function light() {
 	
 	document.getElementById('weather').setAttribute('data-basecolor', '#f9f8f7');
 	document.getElementById('weather').setAttribute('data-textcolor', '#37352f');
-	document.getElementById('weather').removeAttribute('data-cloudfill');
+	document.getElementById('weather').setAttribute('data-cloudfill', '#f9f8f7');
 	document.getElementById('weather').setAttribute('data-suncolor', '#F58f70');
 	
 	script(document, 'script', 'weatherwidget-io-js');
@@ -71,7 +71,7 @@ function dark() {
 	
 	document.getElementById('weather').setAttribute('data-basecolor', '#383836');
 	document.getElementById('weather').removeAttribute('data-textcolor');
-	document.getElementById('weather').removeAttribute('data-cloudfill');
+	document.getElementById('weather').setAttribute('data-cloudfill', '#383836');
 	document.getElementById('weather').setAttribute('data-suncolor', '#F58f70');
 	
 	script(document, 'script', 'weatherwidget-io-js');
