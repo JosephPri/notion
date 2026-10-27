@@ -207,7 +207,7 @@
       "darkreader": ":root {\n  --darkreader-background-ffffff: transparent !important;\n}",
       "no footer": "footer {\n  display: none !important;\n}"
     },
-    "+notion.site.css": {
+    "+notion.com.css": {
       "notion-transparency": "body {\n  background-color: #00000000 !important;\n  background: #00000000 !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}\n.notion-app-inner, .notion-cursor-listener, .notion-frame, .notion-sidebar-container, header {\n  background-color: #00000000 !important;\n  background: #00000000 !important;\n  box-shadow: none !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}",
       "notion-hide elements": "div.autolayout-row.autolayout-fill-width.autolayout-center.autolayout-space {\n  display: none !important;\n}",
       "notion-rounded banner": ".layout-full img {\n  border-radius: 1em !important;\n}"
@@ -777,7 +777,7 @@
       "round corners": ".DyOaYd, .Fgl6fe-fmcmS-yrriRe.Fgl6fe-fmcmS-yrriRe-OWXEXe-MFS4be.Fgl6fe-fmcmS-yrriRe-OWXEXe-di8rgd-V67aGc, .MDfQ7, .FuWpAb, .iGiNKd.N9WDaf, .mXmivb.ogB5bf.u4s1Oc {\n  border-radius: 10px !important;\n}\n.EN2Rfc.CIy9F {\n  border-radius: 10px 10px 0 0 !important;\n}",
       "hover side panel": ".Kk7lMc-QWPxkf-LgbsSe-haAclf.Kk7lMc-QWPxkf-LgbsSe-haAclf-uQVisb.Kk7lMc-Ia7Qfc-to915 {\n  opacity: 0 !important;\n}\n.Kk7lMc-QWPxkf-LgbsSe-haAclf.Kk7lMc-QWPxkf-LgbsSe-haAclf-uQVisb.Kk7lMc-Ia7Qfc-to915:hover {\n  opacity: 1 !important;\n}"
     },
-    "calendar.notion.so.css": {
+    "calendar.notion.com.css": {
       "transparency": "html, body, nav, #nav, .nav, navbar, .navbar, #navbar, header, #header, .header, app, #app, .app, .hpjStZ, .app-root, #pass-sidebar, #main, main, #content, .guRJSO, .kKvuvb, .buwced, .cOpkUq, section, .kQamew, .bdAmuj, .lgaLvo, #__next, #main > div, #main > div > div > div:not(.sc-ytnrf3-0.dLXsUK), #navigation-wrapper, #global-navbar, .head.notfixed, body[data-theme=\"dark\"], body[data-theme=\"light\"], body.dark_mode, body.light_mode {\n  background-color: transparent !important;\n  background: none !important;\n  box-shadow: none !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}\n.dmLZQu, .gQqlRv, .wjzZQ, .hEwaeM {\n  background-color: transparent !important;\n  border: none !important;\n}"
     },
     "canva.com.css": {
@@ -1933,9 +1933,6 @@
       "gmail-rounded corners": "#\\:3, div.nH:nth-child(4) > div:nth-child(1) {\n  border-radius: 8px !important;\n}",
       "gmail-flashbangless loading": "#loading, .Ap, .aoI, .aoP .Ar, .aC2, .aC3, .HM .ahe::after, .Am, .nr, .gA .aGb, .gA .agP, .gA .agh {\n  background-color: transparent;\n}\n#loading .la-e {\n  display: none !important;\n}\n.tVu25 {\n  transition: all 0.75s ease-in-out !important;\n}\nbody:not(:has(#loading[style=\"display: none;\"])) .tVu25 {\n  filter: blur(20px) !important;\n}\n.gA .IG, .gA .aDj, .gA .GQ {\n  background-color: rgba(0, 0, 0, 0.3) !important;\n}\n.gA .J-Z {\n  backdrop-filter: blur(5px) !important;\n  background-color: light-dark(rgba(255, 255, 255, 0.4), rgba(0, 0, 0, 0.4)) !important;\n}",
       "darkreader": ":root {\n  --darkreader-background-ffffff: transparent !important;\n}\n.amr .ams, .jWOS7-JX-I, .gA .afV {\n  background-color: light-dark(rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.5)) !important;\n  color: white !important;\n  border: none !important;\n}\n.jWOS7-JX-I::before {\n  border: none !important;\n}\n.gA .aaA, .gA .T-I-J3, .gA .J-JN-M-I, .ajz, .T-KT, .gA .J-Z-M-I-JG, .SB, .pYTkkf-JX-ank-Rtc0Jf, .amr .ams::before {\n  filter: brightness(0) invert(1) !important;\n}\n.gA .aDj {\n  filter: none !important;\n}\n.gA .J-Z-M-I, .hP {\n  color: white !important;\n}\n.btDi4d.tyMQmc {\n  box-shadow: none !important;\n}"
-    },
-    "mail.notion.so.css": {
-      "transparency": "html, body, nav, header, .app-root, #pass-sidebar, #main, #content, section, #__next, main.app > div > div > div:not([style]), main.app > div > div > div > div, main.app > div > div > div > div > div, .gIvcGt {\n  background-color: transparent !important;\n  background: none !important;\n  border: none !important;\n  box-shadow: none !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}"
     },
     "mail.proton.me.css": {
       "protonmail-Transparency": ".sidebar, .header, body, .items-column-list, .content, .main, .drawer-sidebar, .searchbox, .input, .toolbar, .items-column-list-container, .checkbox-fakecheck, .toolbar .select-all-wrapper:hover, .item-container-wrapper, .item-container, .button-promotion, .message-header, .button-group, .button-group-item, .banner, .message-content, .message-attachments, .message-attachmentList-item, .ui-prominent, .ui-standard, .your-plan-section-container div ul li, .plan-selection div ul li, .field, .toggle-container.toggle-container, .button-outline-weak {\n  background: transparent !important;\n}\n:root {\n  color-scheme: light dark;\n}",
