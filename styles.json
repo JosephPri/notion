@@ -2209,7 +2209,7 @@
       "notebooklm-card borders": "section {\n  background-color: transparent !important;\n  border: solid light-dark(#999, #444) 1px !important;\n}",
       "no footer": "footer {\n  display: none !important;\n}"
     },
-    "notion.so.css": {
+    "app.notion.com.css": {
       "notion-transparency": "body, .home-content, .notion-collection_view-block [style=\"position: relative;\"] > div, .notion-menu-list-focused > div, div.notion-table-view-add-row, div.pseudoSelection, [style=\"flex: 0 0 auto; position: relative; background-color: rgb(25, 25, 25); padding: 0px;\"], .pseudoSelection > [aria-orientation=\"horizontal\"] > div {\n  background-color: #00000000 !important;\n  background: #00000000 !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}\n.notion-app-inner, .notion-cursor-listener, .notion-frame, .notion-sidebar-container, header {\n  background-color: #00000000 !important;\n  background: #00000000 !important;\n  box-shadow: none !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}\n.layout-full img {\n  border-radius: 1em !important;\n}",
       "notion-hide elements": "div.autolayout-row.autolayout-fill-width.autolayout-center.autolayout-space {\n  display: none !important;\n}",
       "notion-clean home": ".home-content {\n  align-items: center !important;\n  align-content: center !important;\n}",
@@ -3394,9 +3394,6 @@
     ],
     "+instructure.com.css": [
       "classroom.ucscout.org"
-    ],
-    "notion.so": [
-      "app.notion.com"
     ]
   }
 }
