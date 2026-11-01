@@ -3387,8 +3387,5 @@
     "+instructure.com.css": [
       "classroom.ucscout.org"
     ]
-  },
-  "zen-glance": {
-    "zen-glance-transparency": ".zen-glance-overlay browser[zen-glance-selected=\"true\"], .zen-glance-overlay .browserContainer, .zen-glance-overlay .browserStack, .zen-glance-overlay .zen-glance-sidebar-container { background-color: transparent !important; background: none !important; border: none !important; box-shadow: none !important; }"
   }
 }
